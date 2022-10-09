@@ -1,16 +1,8 @@
-# slicing
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![splashScreen](https://user-images.githubusercontent.com/82941848/194744214-882ebf8d-a457-4285-ac64-512ae01e294d.png)
+![intro1](https://user-images.githubusercontent.com/82941848/194744223-45f97734-ecf1-4623-ada4-d56654de28cc.png)
+![intro2](https://user-images.githubusercontent.com/82941848/194744239-840c14cf-7f6b-4036-ba71-aa889e23fa0d.png)
+![intro3](https://user-images.githubusercontent.com/82941848/194744240-f6aaccb4-9556-424c-b4ea-9dedb2d22eaf.png)
+![login](https://user-images.githubusercontent.com/82941848/194744242-4df1658a-5460-4486-bfc8-61bfafb6c326.png)
+![register](https://user-images.githubusercontent.com/82941848/194744243-4b6db569-0b4c-46ce-8221-4ad8c424e5db.png)
+![otp](https://user-images.githubusercontent.com/82941848/194744244-7c79ba4d-38de-4784-9f75-db7f00852a05.png)
+![home](https://user-images.githubusercontent.com/82941848/194744249-c1f94070-6880-406e-a8e8-2365c5281c59.png)
